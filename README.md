@@ -141,6 +141,6 @@ Video Generation
 Frame Processing
         ↓
 Upscaling / Enhancement
-```
         ↓
 Final Video Output
+```
